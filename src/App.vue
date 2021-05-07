@@ -6,7 +6,7 @@
 import keyboard from './components/keyboard.vue'
 import {ref} from "vue"
 const inputValue = ref('123')
-const show = ref(false)
+const show = ref(true)
 </script>
 <style>
 html, body {
