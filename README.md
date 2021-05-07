@@ -35,6 +35,7 @@ html, body {
 
 ### 预览图
 
+
 ![小数](https://cdn.jsdelivr.net/gh/lzq920/picx-image-host@master/20210506/10.0.0.23_3000_(iPhone 6_7_8).5ugx3q5jqaw0.png)
 
 ![整数](https://cdn.jsdelivr.net/gh/lzq920/picx-image-host@master/20210506/10.0.0.23_3000_(iPhone 6_7_8) (1).3bsjiypuo1m0.png)
@@ -42,4 +43,5 @@ html, body {
 ![手机号](https://cdn.jsdelivr.net/gh/lzq920/picx-image-host@master/20210506/10.0.0.23_3000_(iPhone 6_7_8) (2).30irsu2lc4s0.png)
 
 ![身份证号](https://cdn.jsdelivr.net/gh/lzq920/picx-image-host@master/20210506/10.0.0.23_3000_(iPhone 6_7_8) (3).aac7fv5qf4o.png)
+
 
